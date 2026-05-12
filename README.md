@@ -140,7 +140,7 @@ Python 3.10
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Professional-Pose-Dino.git
+git clone https://github.com/SunOfY/Professional-Pose-Dino.git
 cd Professional-Pose-Dino
 ```
 
