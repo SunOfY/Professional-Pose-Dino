@@ -271,11 +271,7 @@ This project is a personal experimental project created for learning and enterta
 
 # 📸 Preview
 
-Add screenshots or gameplay GIFs here.
-
-```text
-preview.png
-```
+<img width="1913" height="869" alt="preview" src="https://github.com/user-attachments/assets/6c176bad-ee9c-44c6-acde-dcd62cda78b8" />
 
 ---
 
